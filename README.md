@@ -28,10 +28,12 @@ The Notes App is a basic React application that allows users to add and delete n
 
 2. Navigate to the project directory:
 
+    ```bash 
     cd notes-app
 
-3. Install dependencies:
+4. Install dependencies:
 
+   ```bash
      npm install
 
 
