@@ -34,13 +34,14 @@ The Notes App is a basic React application that allows users to add and delete n
 4. Install dependencies:
 
    ```bash
-     npm install
+   npm install
 
 
 ## Usage
 
 1. Start the development server:
 
+    ```bash
     npm start
 
 2. Open your browser and navigate to http://localhost:3000 to view the app.
